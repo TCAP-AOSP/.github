@@ -23,6 +23,7 @@ Huge thanks to these projects that made TCAP development possible.
 - [crDroid Android](https://github.com/crdroidandroid)
 - [Evolution X](https://github.com/Evolution-X)
 - [LineageOS](https://github.com/LineageOS)
+- [MicaOS](https://github.com/Project-Mica)
 - [Neoteric OS](https://github.com/Neoteric-OS)
 - [PixelOS](https://github.com/PixelOS-AOSP)
 - [ProtonAOSP](https://github.com/protonAOSP)
