@@ -8,7 +8,7 @@ Because of that, device support has been limited to Tensor Pixel devices only (i
 
 ## Current Status
 
-The ChAOSP Project is considered **experimental**, with the latest changes from Google and other projects.
+The ChAOSP Project is considered **experimental**, with the latest / unreleased changes from Google.
 
 As of now, the latest branch is based on:
 - [Android 16 QPR2](https://android-developers.googleblog.com/2025/12/android-16-qpr2-is-released.html?m=1)
@@ -17,11 +17,12 @@ As of now, the latest branch is based on:
 ## Features
 
 - _Most_ features from the latest Pixel series
+- Unlimited Google Photos storage
+- Google Dialer call recording
 - ~~Face Unlock~~
 - AMOLED black theme
 - PIN scrambling
 - Advanced reboot options
-- ~~Play Integrity & keybox attestation spoofing~~
 - Color balance adjustment (LiveDisplay alternative)
 
 ## Building
@@ -45,7 +46,6 @@ Huge thanks to these projects that made TCAP development possible.
 - [PixelExperience](https://github.com/PixelExperience)
 - [PixelOS](https://github.com/PixelOS-AOSP)
 - [ProtonAOSP](https://github.com/protonAOSP)
-- [RisingTechOSS](https://github.com/RisingTechOSS)
 - [StatiX](https://github.com/StatiXOS)
 - [TheParasiteProject](https://github.com/TheParasiteProject)
 - [VoltageOS](https://github.com/VoltageOS)
