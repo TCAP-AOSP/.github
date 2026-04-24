@@ -21,7 +21,7 @@ As of now, the latest branch is based on:
 - AMOLED black theme
 - PIN scrambling
 - Advanced reboot options
-- ~~Play Integrity Fix + Keybox attestation spoofing~~
+- ~~Play Integrity & keybox attestation spoofing~~
 - Color balance adjustment (LiveDisplay alternative)
 
 ## Building
