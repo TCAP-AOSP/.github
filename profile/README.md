@@ -49,4 +49,4 @@ Huge thanks to these projects that made TCAP development possible.
 - [StatiX](https://github.com/StatiXOS)
 - [TheParasiteProject](https://github.com/TheParasiteProject)
 - [VoltageOS](https://github.com/VoltageOS)
-- [YAAP](https://github.com/yaap)
+- [Yet Another AOSP Project](https://github.com/yaap)
