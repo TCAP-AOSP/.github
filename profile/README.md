@@ -1,4 +1,4 @@
-# The ChAOSP Project (TCAP)
+# The CharcoalAOSP Project (TCAP)
 
 A passion custom ROM project based on the [Android Open Source Project](https://source.android.com),
 with a goal to best replicate the Google Pixel experience.
@@ -8,7 +8,7 @@ Because of that, device support has been limited to Tensor Pixel devices only (i
 
 ## Current Status
 
-The ChAOSP Project is considered **experimental**, with the latest / unreleased changes from Google.
+The CharcoalAOSP Project is considered **experimental**, with the latest / unreleased changes from Google.
 
 As of now, the latest branch is based on:
 - [Android 16 QPR2](https://android-developers.googleblog.com/2025/12/android-16-qpr2-is-released.html?m=1)
