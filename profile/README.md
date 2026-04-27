@@ -37,6 +37,7 @@ Get instructions on building the system in the [pinned manifest](https://github.
 
 Huge thanks to these projects that made TCAP development possible.
 
+- [AOSPA](https://github.com/AOSPA)
 - [AxionAOSP](https://github.com/AxionAOSP)
 - [crDroid Android](https://github.com/crdroidandroid)
 - [Evolution X](https://github.com/Evolution-X)
