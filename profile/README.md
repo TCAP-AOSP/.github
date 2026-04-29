@@ -17,7 +17,6 @@ As of now, the latest branch is based on:
 ## Features
 
 - _Most_ common features from Tensor Pixel devices
-- Unlimited Google Photos storage
 - Google Dialer call recording
 - ~~Face Unlock~~
 - AMOLED black theme
