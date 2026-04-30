@@ -1,14 +1,11 @@
 # The CharcoalAOSP Project (TCAP)
 
-A passion custom ROM project based on the [Android Open Source Project](https://source.android.com),
+Another passion custom ROM project based on the [Android Open Source Project](https://source.android.com),
 with a goal to best replicate the Google Pixel experience.
-
-Unlike many other ROM projects, TCAP wishes to stay inline with upstream with minimal external build hooks.
-Because of that, device support has been limited to Tensor Pixel devices only (ironic, right?).
 
 ## Current Status
 
-The CharcoalAOSP Project is considered **experimental**, with the latest / unreleased changes from Google.
+TCAP is considered **experimental**, with the latest / unreleased changes from Google.
 
 As of now, the latest branch is based on:
 - [Android 16 QPR2](https://android-developers.googleblog.com/2025/12/android-16-qpr2-is-released.html?m=1)
@@ -17,8 +14,6 @@ As of now, the latest branch is based on:
 ## Features
 
 - _Most_ common features from Tensor Pixel devices
-- Google Dialer call recording
-- ~~Face Unlock~~
 - AMOLED black theme
 - PIN scrambling
 - Advanced reboot options
@@ -49,5 +44,4 @@ Huge thanks to these projects that made TCAP development possible.
 - [ProtonAOSP](https://github.com/protonAOSP)
 - [StatiX](https://github.com/StatiXOS)
 - [TheParasiteProject](https://github.com/TheParasiteProject)
-- [VoltageOS](https://github.com/VoltageOS)
 - [Yet Another AOSP Project](https://github.com/yaap)
