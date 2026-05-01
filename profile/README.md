@@ -9,7 +9,7 @@ TCAP is considered **experimental**, with the latest / unreleased changes from G
 
 As of now, the latest branch is based on:
 - [Android 16 QPR2](https://android-developers.googleblog.com/2025/12/android-16-qpr2-is-released.html?m=1)
-- [April 2026 ASB](https://source.android.com/docs/security/bulletin/2026/2026-04-01)
+- [February 2026 ASB](https://source.android.com/docs/security/bulletin/2026/2026-02-01)
 
 ## Features
 
