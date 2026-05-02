@@ -13,11 +13,20 @@ As of now, the latest branch is based on:
 
 ## Features
 
+Available:
+
 - _Most_ common features from Tensor Pixel devices
+- Unlimited Google Photos storage
 - AMOLED black theme
 - PIN scrambling
 - Advanced reboot options
 - Color balance adjustment (LiveDisplay alternative)
+- Certified props & keybox spoofing
+
+Work-in-Progress:
+
+- Google Play System Updates
+- Face Unlock
 
 ## Building
 
